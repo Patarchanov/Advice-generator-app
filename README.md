@@ -12,7 +12,7 @@ Learned a lot of that challenge and also the advices can be useful!
 Links:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://patarchanov.github.io/Advice-generator-app/)
 
 Built with:
 
